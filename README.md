@@ -16,7 +16,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyanshu762&show_icons=true&locale=en&layout=compact" alt="priyanshu762" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshu762&" alt="priyanshu762" /></p>
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Priyanshu762&theme=white&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Priyanshu762&theme=white&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu762&theme=white&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
